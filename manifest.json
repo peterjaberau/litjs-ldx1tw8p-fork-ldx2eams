@@ -1,0 +1,7 @@
+{
+  "../../../dist/__require.js": {
+    "file": "dist/__require.js",
+    "src": "../../../dist/__require.js",
+    "isEntry": true
+  }
+}

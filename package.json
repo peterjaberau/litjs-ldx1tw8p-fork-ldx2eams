@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/peterjaberau.litjs-ldx1tw8p-fork-ldx2eams",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ugnvMD4GPj2iz4ZojwX8 --open"
+  },
+  "dependencies": {}
+}
